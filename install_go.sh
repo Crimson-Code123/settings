@@ -6,3 +6,4 @@ tar -xzf go1.26.5.linux-amd64.tar.gz
 sudo cp -r go /usr/local/
 echo 'export PATH=$PATH:/usr/local/go/bin' >> .profile
 echo 'export PATH="$PATH:$(go env GOPATH)/bin"' >> .profile
+
