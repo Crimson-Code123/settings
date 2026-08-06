@@ -1,1 +1,1 @@
-echo 'export PATH=$PATH:/usr/local/texlive/2024' >> .profile
+echo 'export PATH=$PATH:/usr/local/texlive/2024/bin/x86_64-linux' >> .profile
