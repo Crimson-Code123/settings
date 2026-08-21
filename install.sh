@@ -8,6 +8,8 @@ git config --global user.email "sam.podlak@gmail.com"
 git config --global user.name "Sam"
 
 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
 #https://z3prover.github.io/api/html/go/index.html
 git clone https://github.com/Z3Prover/z3.git
 cd z3
